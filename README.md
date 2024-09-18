@@ -1,1 +1,1 @@
-# Palabra-pal-ndromo
+# Palabra-palindromo
